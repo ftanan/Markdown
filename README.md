@@ -25,11 +25,11 @@
 * Migration et développement des Forms et Reports
 * Transfert de compétences
 * Projets :
-  `* Caisse Nationale de Sécurité Sociale (CNSS) : Gestion de Sécurité Sociale (Prestations, Recouvrement, Comptabilité, GRH …)
-  `* Société des Postes du Togo (SPT) : Gestion des métiers de la Poste (Chèques postaux, Comptabilité, GRH, Mandat, Épargne…)
-  `* Banque Togolaise de Développement (BTD) : (GRH)
-  `* Caisse de Retraites du Togo (CRT) : (GRH)
-  `* Société Togolaise des Eaux (TdE) : Gestion des abonnés (migration et développement)
+  * Caisse Nationale de Sécurité Sociale (CNSS) : Gestion de Sécurité Sociale (Prestations, Recouvrement, Comptabilité, GRH …)
+  * Société des Postes du Togo (SPT) : Gestion des métiers de la Poste (Chèques postaux, Comptabilité, GRH, Mandat, Épargne…)
+  * Banque Togolaise de Développement (BTD) : (GRH)
+  * Caisse de Retraites du Togo (CRT) : (GRH)
+  * Société Togolaise des Eaux (TdE) : Gestion des abonnés (migration et développement)
 
 ###De 1995 à 1998 : IDS Technologie
 * Responsable logiciel à IDS Technologie.
@@ -38,10 +38,10 @@
 * Installation des produits Oracle (outil de développement, serveur d'application et base de données sous Linux et Windows) 
 * Transfert de compétences
 * Projets :
-  `* Caisse Nationale de Sécurité Sociale (CNSS) : Gestion de Sécurité Sociale (Prestations, Recouvrement, Comptabilité, GRH …)
-  `* Société Togolaise des Eaux (TdE) : Module d’encaissement des factures sous CTOS
+  * Caisse Nationale de Sécurité Sociale (CNSS) : Gestion de Sécurité Sociale (Prestations, Recouvrement, Comptabilité, GRH …)
+  * Société Togolaise des Eaux (TdE) : Module d’encaissement des factures sous CTOS
 -------------------------------
->Je n'ai jamais rencontré d'homme si ignorant qu'il n'eut quelque chose à m'apprendre. *Galilée*
+> Je n'ai jamais rencontré d'homme si ignorant qu'il n'eut quelque chose à m'apprendre. *Galilée*
 -------------------------------
 Rendez-vous sur mon blog [Vie vertueuse](http://www.vie_vertueuse.com) !
 
