@@ -54,3 +54,4 @@ _Galilée_
 -------------------------------
 Rendez-vous sur mon blog [Vie vertueuse](http://www.vie-vertueuse.com) !
 
+![Merci infiniment](http://l.yimg.com/fz/api/res/1.2/bM9tvsyCo6WKtM0o6AbFTQ--/YXBwaWQ9c3JjaGRkO2g9MzgyO3E9OTU7dz01ODA-/http://www.ascensionplanetaire.com/images/merci.gif)
