@@ -1,18 +1,18 @@
-#PRESENTATION
+# PRESENTATION
 
-##Etat civil                                                 
-###Frédéric Aklaisso TANAN 
-Date de naissance: 27 avril 1965 à Lomé - TOGO
-Situation de famille : Marié et père de famille
-Nationalité : togolaise
-Profession actuelle : Chef de projet à NTCI
-cel. +(228)90 05 14 36 Télécopie +(228)22 21 33 42
-Email : frederic.tanan@gmail.com
+## Etat civil                                                 
+### Frédéric Aklaisso TANAN 
+* Date de naissance: 27 avril 1965 à Lomé - TOGO
+* Situation de famille : Marié et père de famille
+* Nationalité : togolaise
+* Profession actuelle : Chef de projet à NTCI
+* cel. +(228)90 05 14 36 Télécopie +(228)22 21 33 42
+* Email : frederic.tanan@gmail.com
 
 ##Formations initiales
-*Diplôme Universitaire de Technologie (DUT) en spécialité Informatique obtenu en juin 1991 à l'Université Paul SABATIER de Toulouse - France
-*Formation en gestion et informatique à l'Institut National d'Économie - COTONOU  au Bénin entre 1987 et 1989
-*Baccalauréat Série D obtenu en juillet 1986 à Lomé
+* Diplôme Universitaire de Technologie (DUT) en spécialité Informatique obtenu en juin 1991 à l'Université Paul SABATIER de Toulouse - France
+* Formation en gestion et informatique à l'Institut National d'Économie - COTONOU  au Bénin entre 1987 et 1989
+* Baccalauréat Série D obtenu en juillet 1986 à Lomé
 
 ##Principales qualifications – expériences
 ###De 1999 à ce jour : NTCI Sarl
