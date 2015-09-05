@@ -44,7 +44,7 @@ Email : frederic.tanan@gmail.com
 `*Caisse Nationale de Sécurité Sociale (CNSS) : Gestion de Sécurité Sociale (Prestations, Recouvrement, Comptabilité, GRH …)
 `*Société Togolaise des Eaux (TdE) : Module d’encaissement des factures sous CTOS
 -------------------------------
->Je n'ai jamais rencontré d'homme si ignorant qu'il n'eut quelque chose à m'apprendre. ###Galilée
+>Je n'ai jamais rencontré d'homme si ignorant qu'il n'eut quelque chose à m'apprendre. *Galilée*
 -------------------------------
 Rendez-vous sur mon blog [Vie vertueuse](http://www.vie_vertueuse.com) !
 
