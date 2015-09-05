@@ -38,7 +38,7 @@
 * Installation des produits Oracle (outil de développement, serveur d'application et base de données sous Linux et Windows) 
 * Transfert de compétences
 * Projets :
-  * Caisse Nationale de Sécurité Sociale (CNSS) : Gestion de Sécurité Sociale (Prestations, Recouvrement, Comptabilité, GRH …)
+  * Caisse Nationale de Sécurité Sociale (CNSS) : Gestion de Sécurité Sociale (Prestations, Recouvrement, Comptabilité, GRH)
   * Société Togolaise des Eaux (TdE) : Module d’encaissement des factures sous CTOS
 -------------------------------
 > Je n'ai jamais rencontré d'homme si ignorant qu'il n'eut quelque chose à m'apprendre. *Galilée*
