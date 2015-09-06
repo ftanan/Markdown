@@ -15,7 +15,7 @@
 
 ##Principales qualifications – expériences
 
-###De 1999 à ce jour : NTCI Sarl [NTCI](http://www.ntcinet.com)
+###De 1999 à ce jour : NTCI Sarl -->  [ntci](http://www.ntcinet.com)
 * Gérant Associé de NTCI, Société de distribution de matériel et fournitures informatique, prestations de services et développement de logiciel. Partenaire Oracle Afrique
 * Directeur des projets de conception et développement  réalisés par NTCI.
 * Coordination de l’équipe pluridisciplinaire de conduite et réalisation des projets.
