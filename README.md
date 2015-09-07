@@ -1,3 +1,6 @@
+
+![Merci infiniment](https://github.com/ftanan/html-css-bootstrap/blob/master/html/images/bienvenue.png)
+
 # PRESENTATION
 
 ## Etat civil                                                 
@@ -53,4 +56,4 @@ _Galilée_
 -------------------------------
 Rendez-vous sur mon blog [Vie vertueuse](http://www.vie-vertueuse.com) !
 
-![Merci infiniment](http://l.yimg.com/fz/api/res/1.2/bM9tvsyCo6WKtM0o6AbFTQ--/YXBwaWQ9c3JjaGRkO2g9MzgyO3E9OTU7dz01ODA-/http://www.ascensionplanetaire.com/images/merci.gif)
+
