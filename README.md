@@ -1,5 +1,5 @@
 
-![Merci infiniment](https://github.com/ftanan/html-css-bootstrap/blob/master/html/images/bienvenue.png)
+![Bienvenue](https://github.com/ftanan/html-css-bootstrap/blob/master/html/images/bienvenue.png)
 
 # PRESENTATION
 
@@ -50,9 +50,9 @@
     * Module encaissement des factures sous CTOS
     
 -------------------------------
-> *Je n'ai jamais rencontré d'homme si ignorant qu'il n'eut quelque chose à m'apprendre!* 
-* Galilée
+> *Je n'ai jamais rencontré d'homme si ignorant qu'il n'eut quelque chose à m'apprendre! (Galilée)*
 -------------------------------
 Rendez-vous sur mon blog [Vie vertueuse](http://www.vie-vertueuse.com) !
-
+-------------------------------
+![Merci pour tout](https://github.com/ftanan/html-css-bootstrap/blob/master/html/images/bienvenue.png)
 
