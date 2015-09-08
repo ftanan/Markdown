@@ -50,9 +50,9 @@
     * Module encaissement des factures sous CTOS
     
 -------------------------------
-_Je n'ai jamais rencontré d'homme si ignorant qu'il n'eut quelque chose à m'apprendre! (Galilée)_
+###### _Je n'ai jamais rencontré d'homme si ignorant qu'il n'eut quelque chose à m'apprendre! (Galilée)_
 -------------------------------
-Rendez-vous sur mon blog [Vie vertueuse](http://www.vie-vertueuse.com) !
+###### Rendez-vous sur mon blog [Vie vertueuse](http://www.vie-vertueuse.com) !
 -------------------------------
 ![Merci pour tout](https://github.com/ftanan/html-css-bootstrap/blob/master/html/images/merci.png)
 
