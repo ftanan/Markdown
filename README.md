@@ -22,9 +22,6 @@
 * Directeur des projets de conception et développement  réalisés par NTCI.
 * Coordination de l’équipe pluridisciplinaire de conduite et réalisation des projets.
 * Installation des produits Oracle (outil de développement, serveur d'application et base de données sous Linux et Windows) 
-* Paramétrage des outils de d’administration et développement Oracle
-* Migration et développement des Forms et Reports
-* Transfert de compétences
 * Projets :
   * Caisse Nationale de Sécurité Sociale (CNSS) : 
     * Gestion de Sécurité Sociale (Prestations, Recouvrement, Comptabilité, GRH …)
@@ -39,10 +36,8 @@
 
 ###De 1995 à 1998 : IDS Technologie
 * Responsable logiciel à IDS Technologie.
-* Assistance et formation donnée aux clients sous Windows, CTOS et UNIX.
-* Développement de logiciel sous ORACLE
+* Développement d'application sous ORACLE
 * Installation des produits Oracle (outil de développement, serveur d'application et base de données sous Linux et Windows) 
-* Transfert de compétences
 * Projets :
   * Caisse Nationale de Sécurité Sociale (CNSS) : 
     * Gestion de Sécurité Sociale (Prestations, Recouvrement, Comptabilité, GRH)
