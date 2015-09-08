@@ -54,5 +54,5 @@
 -------------------------------
 Rendez-vous sur mon blog [Vie vertueuse](http://www.vie-vertueuse.com) !
 -------------------------------
-![Merci pour tout](https://github.com/ftanan/html-css-bootstrap/blob/master/html/images/bienvenue.png)
+![Merci pour tout](https://github.com/ftanan/html-css-bootstrap/blob/master/html/images/merci.png)
 
