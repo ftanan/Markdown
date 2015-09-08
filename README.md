@@ -5,7 +5,6 @@
 
 ## Etat civil                                                 
 ### Frédéric Aklaisso TANAN 
-* Date de naissance: 27 avril 1965 à Lomé - TOGO
 * Nationalité : togolaise
 * Profession actuelle : Chef de projet à NTCI
 * cel. +(228)90 05 14 36 Télécopie +(228)22 21 33 42
@@ -52,7 +51,7 @@
     
 -------------------------------
 > *Je n'ai jamais rencontré d'homme si ignorant qu'il n'eut quelque chose à m'apprendre!* 
-_Galilée_
+* Galilée
 -------------------------------
 Rendez-vous sur mon blog [Vie vertueuse](http://www.vie-vertueuse.com) !
 
